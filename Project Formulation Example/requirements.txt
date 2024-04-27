@@ -1,0 +1,5 @@
+jupyter==1.0.0
+numpy==1.26.4
+pyqubo==1.4.0
+qubogen==0.1.1
+dwave-ocean-sdk==6.9.0
